@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marthiya 👩‍💻
 
-<!--
-**Marthiya/Marthiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / Full Stack Developer
 
-Here are some ideas to get you started:
+I build responsive and user-friendly web applications using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+HTML | CSS | JavaScript | React | Node.js | Python | Git
+
+## Projects
+- React Task Manager
+- Full Stack Authentication App
+- Responsive E-commerce UI
+
+## GitHub Stats
+(Add GitHub stats badge later)
+
+## Connect
+LinkedIn: www.linkedin.com/in/sri-marthiya-dinesh-777773187
+GitHub: https://github.com/Marthiya
